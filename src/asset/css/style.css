@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+
+/* Header title */
+
+.headerTitle {
+  font-weight: bold;
+  font-family: "Itim", cursive;
+}
+
+/* particle js  */
+
+.particleName {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+}
+
+.displayImg {
+  visibility: hidden;
+}
